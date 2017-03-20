@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">"Riyadh Guide App "</string>
+    <string name="mallsFragment">Malls</string>
+    <string name="librariesFragment">Libraries</string>
+    <string name="parksFragment">Parks</string>
+    <string name="eventsFragment">Events</string>
+    <string name="mall1">Faisaliah Mall</string>
+    <string name="mall1Address">Address: Olaya St, Al Olaya, Riyadh 12212, Saudi Arabia</string>
+    <string name="mall2">Kingdom Centre </string>
+    <string name="mall2Address">Address: 2239 Al Urubah Rd, Al Olaya, Riyadh 12214-9597</string>
+    <string name="mall3">Centria Mall</string>
+    <string name="mall3Address">Address: Olaya St, Al Olaya, Riyadh 12241</string>
+    <string name="mall4">Al Nakheel Mall</string>
+    <string name="mall4Address">Address: 2976 Al Imam Saud Ibn Abdul Aziz Branch Rd, Al Mughrizat, Riyadh 12483</string>
+    <string name="event1">Jenadriyah</string>
+    <string name="event1details">is a cultural and heritage festival held in \n
+        Jenadriyah (or Janadriyah[1]) near Riyadh in Saudi Arabia each year,\n
+        lasting for two weeks.\n
+        The festival "normally falls during the month of February or March
+    </string>
+    <string name="park1">King Abdullah Park</string>
+    <string name="park2">King Salman Park</string>
+    <string name="library1">King Fahad National Library</string>
+</resources>
